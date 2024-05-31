@@ -430,7 +430,6 @@ img {
 .footer-box {
   display: flex;
   align-items: baseline;
-  gap: 120px;
 }
 
 .container-footer-logo {
